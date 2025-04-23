@@ -1,0 +1,7 @@
+.venv
+.env
+backend/cache/*
+backend/*/__pycache__
+frontend/*/__pycache__
+node_modules
+fastf1_http_cache.sqlite

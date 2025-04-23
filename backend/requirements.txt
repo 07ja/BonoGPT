@@ -1,0 +1,16 @@
+flask
+flask-cors
+mysql-connector-python
+pyjwt
+fastf1
+openai
+reportlab
+pandas
+pymysql
+python-dotenv
+bcrypt
+datetime
+matplotlib
+numpy
+PyJWT
+openai
